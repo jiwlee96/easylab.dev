@@ -1,2 +1,3 @@
-# easylab.dev
-All things related to my homelab + other learnings
+# easylab.dev - Infrastructure
+
+All infrastructure related code for homelab development
